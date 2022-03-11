@@ -1,2 +1,3 @@
-# gitflow
-Práticas sobre git flow
+# Git Flow
+Práticas sobre git flow.
+ 
